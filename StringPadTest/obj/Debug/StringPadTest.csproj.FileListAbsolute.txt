@@ -1,0 +1,7 @@
+c:\users\ali\documents\visual studio 2015\Projects\StringPadTest\StringPadTest\bin\Debug\StringPadTest.dll
+c:\users\ali\documents\visual studio 2015\Projects\StringPadTest\StringPadTest\bin\Debug\StringPadTest.pdb
+c:\users\ali\documents\visual studio 2015\Projects\StringPadTest\StringPadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ali\documents\visual studio 2015\Projects\StringPadTest\StringPadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\ali\documents\visual studio 2015\Projects\StringPadTest\StringPadTest\obj\Debug\StringPadTest.dll
+c:\users\ali\documents\visual studio 2015\Projects\StringPadTest\StringPadTest\obj\Debug\StringPadTest.pdb
+c:\users\ali\documents\visual studio 2015\Projects\StringPadTest\StringPadTest\obj\Debug\StringPadTest.csprojResolveAssemblyReference.cache
